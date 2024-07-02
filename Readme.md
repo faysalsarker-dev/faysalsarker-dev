@@ -12,7 +12,7 @@ Currently, I'm dedicated to mastering complex coding techniques and advancing my
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker-dev&theme=navy-blue" alt="Faysal's GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faysalsarker-dev&theme=transparent&hide_border=true&border_radius=4.9" alt="Faysal's GitHub streak"/>
 </p>
 
 
