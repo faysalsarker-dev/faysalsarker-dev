@@ -1,4 +1,4 @@
-![Cover Image](https://img.freepik.com/premium-photo/3d-render-shows-closeup-shot-laptop-screen-modern-office-work-environment-toned-image-with-selective-focus_76964-352577.jpg?w=826)
+![Cover Image](https://raw.githubusercontent.com/faysalsarker-dev/personal-branding/refs/heads/main/public/1000018216.jpg?token=GHSAT0AAAAAAC7YTG4H6BZM367XI3AO2UDY2A4XFMQ)
 
 # Hi there, I'm Faysal Sarker 👋
 
