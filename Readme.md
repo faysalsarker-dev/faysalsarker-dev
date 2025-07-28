@@ -1,4 +1,4 @@
-![Cover Image](https://raw.githubusercontent.com/faysalsarker-dev/personal-branding/refs/heads/main/public/1000018216.jpg?token=GHSAT0AAAAAAC7YTG4H6BZM367XI3AO2UDY2A4XFMQ)
+![Cover Image](https://media.licdn.com/dms/image/v2/D5616AQHQLKVbz6Afjg/profile-displaybackgroundimage-shrink_350_1400/B56ZgjmxW2G0AY-/0/1752944023659?e=1756339200&v=beta&t=hiLgBsGMKckczVqCiCg4eK-FVJJXfWjyFUqQX3gbBCs)
 
 # Hi there, I'm Faysal Sarker 👋
 
