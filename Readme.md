@@ -19,24 +19,27 @@
 ---
 
 ### 📊 Engineering Analytics
-
-<div align="center">
+<div >
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=faysalsarker-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Main Stats" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=faysalsarker-dev&show_icons=true&theme=default&hide_border=false" alt="Main Stats" height="170" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalsarker-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faysalsarker-dev&layout=compact&theme=default&hide_border=false" alt="Top Languages" height="170" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker-dev&theme=default&hide_border=false" alt="Streak Stats" height="170" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-### 🌐 Connect with Me
 
-<div align="center">
+
+### 🌐 Where to find me
+
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalsarker-dev)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/faysal.sharker.140/)
