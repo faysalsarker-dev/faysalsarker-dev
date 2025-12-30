@@ -1,0 +1,83 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0b0f1a; }
+
+    .name {
+      font: 700 48px 'Segoe UI', system-ui, sans-serif;
+      fill: #e5e7eb;
+      animation: float 4s ease-in-out infinite;
+    }
+
+    .tech {
+      font: 16px 'Segoe UI', system-ui, sans-serif;
+      fill: #9ca3af;
+      animation: techFloat 6s ease-in-out infinite;
+    }
+
+    .star {
+      fill: #c7d2fe;
+      opacity: 0.8;
+      animation: twinkle 3s infinite ease-in-out;
+    }
+
+    .wave {
+      fill: none;
+      stroke-width: 1.5;
+      animation: waveMove linear infinite;
+    }
+
+    .wave1 {
+      stroke: #5865f2;
+      opacity: 0.35;
+      animation-duration: 8s;
+    }
+
+    .wave2 {
+      stroke: #818cf8;
+      opacity: 0.25;
+      animation-duration: 12s;
+    }
+
+    @keyframes float {
+      0%,100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+
+    @keyframes techFloat {
+      0%,100% { transform: translateY(0); opacity: 0.8; }
+      50% { transform: translateY(-10px); opacity: 1; }
+    }
+
+    @keyframes twinkle {
+      0%,100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes waveMove {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -200; }
+    }
+  </style>
+
+  <!-- Space background -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Stars -->
+  <circle cx="80" cy="40" r="1.5" class="star" />
+  <circle cx="180" cy="90" r="1" class="star" />
+  <circle cx="300" cy="50" r="1.2" class="star" />
+  <circle cx="420" cy="30" r="1.5" class="star" />
+  <circle cx="560" cy="70" r="1" class="star" />
+  <circle cx="680" cy="40" r="1.3" class="star" />
+  <circle cx="800" cy="90" r="1.5" class="star" />
+
+  <!-- Nebula waves -->
+  <path class="wave wave1" stroke-dasharray="6 14" d="M0 175 Q150 155 300 175 T600 175 T900 175" />
+  <path class="wave wave2" stroke-dasharray="4 18" d="M0 200 Q150 180 300 200 T600 200 T900 200" />
+
+  <!-- Name -->
+  <text x="50%" y="110" text-anchor="middle" class="name">Faysal Sarker</text>
+
+  <!-- Tech -->
+  <text x="50%" y="155" text-anchor="middle" class="tech">Full-Stack Developer · Next.js · React · TypeScript · Node.js</text>
+</svg>
