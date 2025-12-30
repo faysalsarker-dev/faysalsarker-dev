@@ -1,61 +1,90 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Faysal%20Sarker&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+# Hi 👋, I'm Faysal Sarker (faysalsarker-dev)
 
-  <h3>Full-Stack Engineer | Architecting Scalable Digital Solutions</h3>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/faysalsarker-dev">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:faysalsarker.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/faysal.sharker.140">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-    </a>
-  </p>
-</div>
+[![Follow on GitHub](https://img.shields.io/github/followers/faysalsarker-dev?label=Follow&style=social)](https://github.com/faysalsarker-dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter](https://img.shields.io/twitter/follow/your_twitter?label=Follow&style=social)](https://twitter.com/your_twitter)
 
 ---
 
-### 🧠 The "Calculator" Philosophy
-I believe technology + mindset determines your ceiling. I openly embrace AI and modern tools for the same reason we use calculators: refusing them keeps you stuck in long division. By adopting the most robust tools, I unlock higher-level thinking—architecture, creativity, and global impact.
+Welcome — I'm Faysal, a software engineer who loves building fast, resilient, and delightful developer experiences. I work across web applications, APIs, and cloud-native systems. I focus on writing clean, well-tested code and shipping features that provide real value.
+
+- 🔭 I’m currently working on: building [project-name](https://github.com/faysalsarker-dev/project-name) (replace with your active repo)
+- 🌱 I’m learning: advanced TypeScript patterns and distributed systems
+- 👯 I’m open to collaborating on: open-source developer tools and cloud infra
+- 💬 Ask me about: JavaScript, TypeScript, Node.js, React, Docker, and AWS
+- 📫 How to reach me: your.email@example.com
+- ⚡ Fun fact: I enjoy turning complex problems into simple, maintainable solutions
 
 ---
 
-### 🛠️ Professional Stack
+## 🔧 Tech & Tools
 
-#### **Core Languages & Logic**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-#### **Frontend Engineering**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-
-#### **UI & Design Systems**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Backend & Data Architecture**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-#### **Deployment & DevOps**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> 
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
 
 ---
 
-### 📊 Engineering Stats
+## 📂 Featured Projects
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=faysalsarker-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Main Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalsarker-dev&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker-dev&theme=tokyonight" alt="Streak Stats" />
-</div>
+Here are a few repositories I'm proud of — replace these with the projects you want to showcase.
+
+- [project-name](https://github.com/faysalsarker-dev/project-name) — Short description of what this does and the tech used.
+- [another-repo](https://github.com/faysalsarker-dev/another-repo) — Short description or use-case.
+- [cool-tool](https://github.com/faysalsarker-dev/cool-tool) — Small note about why it's useful.
+
+Tip: Pin these repositories on your profile to show them in the "Pinned" section.
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=faysalsarker-dev&icon=1&color=0" alt="Visit Count" />
+## 📈 GitHub Stats
+
+<!-- GitHub readme stats -->
+<p align="left">
+  <img alt="Faysal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=faysalsarker-dev&show_icons=true&hide_border=true&theme=dracula" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalsarker-dev&layout=compact&hide_border=true&theme=dracula" />
 </p>
+
+<!-- Contribution streak / activity -->
+<p align="left">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker-dev&theme=dark&hide_border=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=faysalsarker-dev&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📬 Connect
+
+I'd love to connect — choose your preferred channel:
+
+- Email: your.email@example.com
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)
+- Twitter: [@your_twitter](https://twitter.com/your_twitter)
+- GitHub: [faysalsarker-dev](https://github.com/faysalsarker-dev)
+
+---
+
+## 🛠️ How to use & customize this README
+
+1. Create a repository named the same as your GitHub username (faysalsarker-dev) if you haven't already.
+2. Add a file named `README.md` at the repo root with this content.
+3. Replace placeholders (email, links, projects, descriptions) with your real details.
+4. For GitHub stats and top langs, you can change the theme param:
+   - Example: `&theme=github_dark` or `&theme=radical` (see https://github.com/anuraghazra/github-readme-stats for options).
+5. Optionally add a GitHub Action to automatically refresh dynamic parts (if you embed third-party SVGs) or to update your "recent activity" automatically.
+
+---
+
+If you'd like, I can:
+- personalize this further with your real projects, short bio, and preferred tech stack,
+- produce a dark/light variant,
+- or create a version with animated header / GIF.
+
+Tell me which repositories and social links you want shown and any wording you prefer, and I’ll update the file.
