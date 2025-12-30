@@ -1,130 +1,46 @@
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Faysal Sarker.</h1>
 
-<p align="center">
-  <img src="./assets/profile.jpg" alt="Profile image" width="220" style="border-radius:12px; box-shadow: 0 10px 30px rgba(2,6,23,.6)"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Faysal Sarker (faysalsarker-dev)</h1>
-
-<p align="center">
-  Full-Stack Developer • 3+ years building products that scale • AI-friendly engineer
-</p>
-
-<p align="center">
-  <a href="https://github.com/faysalsarker-dev"><img src="https://img.shields.io/github/followers/faysalsarker-dev?label=Follow&style=social" alt="Follow on GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-2b9348" alt="Location" />
-  <img src="https://img.shields.io/badge/Email-faysalsarker.dev%40gmail.com-blue" alt="Email" />
-  <img src="https://img.shields.io/badge/Phone-01884570877-grey" alt="Phone" />
+<p>
+  <strong>Full-Stack Developer</strong> • 3+ years of experience • A young mind who loves to code and turn imaginary ideas into reality through modern technology.
 </p>
 
 ---
 
-## About me
 
-I’m Faysal Sarker, a Full-Stack Developer with 3+ years of hands-on experience building real products in real-world conditions. I’m deeply dedicated to my craft — not casually interested, genuinely obsessed.
 
-Most of my time goes into building, breaking, learning, and rebuilding systems that actually scale. I work at the intersection of clean architecture, modern web technologies, and practical problem-solving. I don’t just ship features — I care about why they exist, how they scale, and what they unlock next.
+### Things I code with
 
-The “Calculator” Philosophy  
-I believe technology + mindset determines how far someone can go. That’s why I openly embrace AI and modern tools. If we refused calculators, we’d still be stuck doing long division. By adopting better tools, I unlock higher-level thinking — architecture, creativity, and real impact. I automate the repetitive so I can focus on what truly matters.
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-E91E63?style=for-the-badge&logo=npm&logoColor=white) ![Bcrypt](https://img.shields.io/badge/Bcrypt-323330?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-What drives me:
-- A hunger to become exceptional
-- A refusal to stay average
-- A long-term vision to build things that matter globally
-
-If you’re building something ambitious, thinking long-term, or pushing the limits of software — let’s connect.
-
-📍 Based in Bangladesh | Open to Global Opportunities  
-📧 faysalsarker.dev@gmail.com  
-📞 01884570877
+### 📈 Currently Leveling Up In
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## Tech & Tools I use
+### 📊 Engineering Analytics
 
-Frontend
-- JavaScript • TypeScript • React • Next.js • Zod • react-hook-form • shadcn/ui • Material UI • DaisyUI
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=faysalsarker-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Main Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalsarker-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
 
-State & Data
-- Redux • TanStack Query (react-query) • Axios
+### 🌐 Connect with Me
 
-Backend & APIs
-- Node.js • Express • JWT • Multer • Nodemailer
+<div align="center">
 
-AI & Automation
-- Generative AI (prompt engineering / integration / automation)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalsarker-dev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/faysal.sharker.140/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/faysal_sarker_)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysalsarker.dev@gmail.com)
 
-DevOps & Platforms
-- Git • GitHub • Vercel • Netlify • Alibaba Cloud (Aliyun)
-
-Other
-- Testing, clean architecture, CI/CD, containerization & deployment patterns
-
----
-
-## Badges (copy/paste ready)
-
-Front-end
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-
-Backend & Tools
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/JWT-323232?style=flat" alt="JWT" />
-<img src="https://img.shields.io/badge/Multer-2b6cb0?style=flat" alt="Multer" />
-<img src="https://img.shields.io/badge/Nodemailer-f0ad4e?style=flat" alt="Nodemailer" />
-
-State & Query
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" alt="Axios" />
-
-UI libs
-<img src="https://img.shields.io/badge/DaisyUI-38B2AC?style=flat" alt="DaisyUI" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" alt="MUI" />
-<img src="https://img.shields.io/badge/shadcn-ui-111827?style=flat" alt="shadcn/ui" />
-
-Cloud & Platforms
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
-<img src="https://img.shields.io/badge/AlibabaCloud-232F3E?style=flat" alt="Alibaba Cloud" />
-
-AI
-<img src="https://img.shields.io/badge/Generative_AI-FFA500?style=flat" alt="Generative AI" />
-
----
-
-## Featured projects
-
-(Replace with your real repos — pin them on your GitHub profile.)
-
-- [project-name](https://github.com/faysalsarker-dev/project-name) — Short description (tech used).
-- [another-repo](https://github.com/faysalsarker-dev/another-repo) — Short description.
-- [cool-tool](https://github.com/faysalsarker-dev/cool-tool) — Why it matters.
-
----
-
-## GitHub stats & troubleshooting
-
-If your GitHub stats widgets (like github-readme-stats or github-profile-trophy) are not showing:
-
-1. Confirm this repo is named exactly: `faysalsarker-dev` (matching your GitHub username). The README must be in that repo's root.
-2. Make sure the profile repo is public.
-3. Check that your username in the widget URL is correct: `?username=faysalsarker-dev`
-4. Some browsers or adblockers block external SVGs — try disabling adblocker or load the README in a different browser or incognito mode.
-5. The third-party services (vercel / heroku / github-readme-stats) can occasionally be down — wait a bit or self-host the widgets.
-6. If you hide your contributions in your profile settings, that affects calendars but not the third-party widgets; still check privacy settings.
-
-Example (copy/paste) stats block (works when the services are reachable):
-```html
-<p align="left">
-  <img alt="Faysal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=faysalsarker-dev&show_icons=true&hide_border=true&theme=dracula" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalsarker-dev&layout=compact&hide_border=true&theme=dracula" />
-</p>
-```
-
-
+</div>
