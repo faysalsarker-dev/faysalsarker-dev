@@ -1,9 +1,4 @@
-```markdown
-<!--
-  Profile README for: faysalsarker-dev
-  - Place your profile image at: /assets/profile.jpg (or update the path below)
-  - If you want me to push this to your repo, tell me and I can create the file for you.
--->
+
 
 <p align="center">
   <img src="./assets/profile.jpg" alt="Profile image" width="220" style="border-radius:12px; box-shadow: 0 10px 30px rgba(2,6,23,.6)"/>
