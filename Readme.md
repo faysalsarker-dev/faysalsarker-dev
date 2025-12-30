@@ -1,90 +1,135 @@
-# Hi 👋, I'm Faysal Sarker (faysalsarker-dev)
+```markdown
+<!--
+  Profile README for: faysalsarker-dev
+  - Place your profile image at: /assets/profile.jpg (or update the path below)
+  - If you want me to push this to your repo, tell me and I can create the file for you.
+-->
 
-[![Follow on GitHub](https://img.shields.io/github/followers/faysalsarker-dev?label=Follow&style=social)](https://github.com/faysalsarker-dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/twitter/follow/your_twitter?label=Follow&style=social)](https://twitter.com/your_twitter)
+<p align="center">
+  <img src="./assets/profile.jpg" alt="Profile image" width="220" style="border-radius:12px; box-shadow: 0 10px 30px rgba(2,6,23,.6)"/>
+</p>
 
----
+<h1 align="center">Hi 👋, I'm Faysal Sarker (faysalsarker-dev)</h1>
 
-Welcome — I'm Faysal, a software engineer who loves building fast, resilient, and delightful developer experiences. I work across web applications, APIs, and cloud-native systems. I focus on writing clean, well-tested code and shipping features that provide real value.
+<p align="center">
+  Full-Stack Developer • 3+ years building products that scale • AI-friendly engineer
+</p>
 
-- 🔭 I’m currently working on: building [project-name](https://github.com/faysalsarker-dev/project-name) (replace with your active repo)
-- 🌱 I’m learning: advanced TypeScript patterns and distributed systems
-- 👯 I’m open to collaborating on: open-source developer tools and cloud infra
-- 💬 Ask me about: JavaScript, TypeScript, Node.js, React, Docker, and AWS
-- 📫 How to reach me: your.email@example.com
-- ⚡ Fun fact: I enjoy turning complex problems into simple, maintainable solutions
-
----
-
-## 🔧 Tech & Tools
-
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> 
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/faysalsarker-dev"><img src="https://img.shields.io/github/followers/faysalsarker-dev?label=Follow&style=social" alt="Follow on GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Bangladesh-2b9348" alt="Location" />
+  <img src="https://img.shields.io/badge/Email-faysalsarker.dev%40gmail.com-blue" alt="Email" />
+  <img src="https://img.shields.io/badge/Phone-01884570877-grey" alt="Phone" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## About me
 
-Here are a few repositories I'm proud of — replace these with the projects you want to showcase.
+I’m Faysal Sarker, a Full-Stack Developer with 3+ years of hands-on experience building real products in real-world conditions. I’m deeply dedicated to my craft — not casually interested, genuinely obsessed.
 
-- [project-name](https://github.com/faysalsarker-dev/project-name) — Short description of what this does and the tech used.
-- [another-repo](https://github.com/faysalsarker-dev/another-repo) — Short description or use-case.
-- [cool-tool](https://github.com/faysalsarker-dev/cool-tool) — Small note about why it's useful.
+Most of my time goes into building, breaking, learning, and rebuilding systems that actually scale. I work at the intersection of clean architecture, modern web technologies, and practical problem-solving. I don’t just ship features — I care about why they exist, how they scale, and what they unlock next.
 
-Tip: Pin these repositories on your profile to show them in the "Pinned" section.
+The “Calculator” Philosophy  
+I believe technology + mindset determines how far someone can go. That’s why I openly embrace AI and modern tools. If we refused calculators, we’d still be stuck doing long division. By adopting better tools, I unlock higher-level thinking — architecture, creativity, and real impact. I automate the repetitive so I can focus on what truly matters.
+
+What drives me:
+- A hunger to become exceptional
+- A refusal to stay average
+- A long-term vision to build things that matter globally
+
+If you’re building something ambitious, thinking long-term, or pushing the limits of software — let’s connect.
+
+📍 Based in Bangladesh | Open to Global Opportunities  
+📧 faysalsarker.dev@gmail.com  
+📞 01884570877
 
 ---
 
-## 📈 GitHub Stats
+## Tech & Tools I use
 
-<!-- GitHub readme stats -->
+Frontend
+- JavaScript • TypeScript • React • Next.js • Zod • react-hook-form • shadcn/ui • Material UI • DaisyUI
+
+State & Data
+- Redux • TanStack Query (react-query) • Axios
+
+Backend & APIs
+- Node.js • Express • JWT • Multer • Nodemailer
+
+AI & Automation
+- Generative AI (prompt engineering / integration / automation)
+
+DevOps & Platforms
+- Git • GitHub • Vercel • Netlify • Alibaba Cloud (Aliyun)
+
+Other
+- Testing, clean architecture, CI/CD, containerization & deployment patterns
+
+---
+
+## Badges (copy/paste ready)
+
+Front-end
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+
+Backend & Tools
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/JWT-323232?style=flat" alt="JWT" />
+<img src="https://img.shields.io/badge/Multer-2b6cb0?style=flat" alt="Multer" />
+<img src="https://img.shields.io/badge/Nodemailer-f0ad4e?style=flat" alt="Nodemailer" />
+
+State & Query
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" alt="Axios" />
+
+UI libs
+<img src="https://img.shields.io/badge/DaisyUI-38B2AC?style=flat" alt="DaisyUI" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" alt="MUI" />
+<img src="https://img.shields.io/badge/shadcn-ui-111827?style=flat" alt="shadcn/ui" />
+
+Cloud & Platforms
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/AlibabaCloud-232F3E?style=flat" alt="Alibaba Cloud" />
+
+AI
+<img src="https://img.shields.io/badge/Generative_AI-FFA500?style=flat" alt="Generative AI" />
+
+---
+
+## Featured projects
+
+(Replace with your real repos — pin them on your GitHub profile.)
+
+- [project-name](https://github.com/faysalsarker-dev/project-name) — Short description (tech used).
+- [another-repo](https://github.com/faysalsarker-dev/another-repo) — Short description.
+- [cool-tool](https://github.com/faysalsarker-dev/cool-tool) — Why it matters.
+
+---
+
+## GitHub stats & troubleshooting
+
+If your GitHub stats widgets (like github-readme-stats or github-profile-trophy) are not showing:
+
+1. Confirm this repo is named exactly: `faysalsarker-dev` (matching your GitHub username). The README must be in that repo's root.
+2. Make sure the profile repo is public.
+3. Check that your username in the widget URL is correct: `?username=faysalsarker-dev`
+4. Some browsers or adblockers block external SVGs — try disabling adblocker or load the README in a different browser or incognito mode.
+5. The third-party services (vercel / heroku / github-readme-stats) can occasionally be down — wait a bit or self-host the widgets.
+6. If you hide your contributions in your profile settings, that affects calendars but not the third-party widgets; still check privacy settings.
+
+Example (copy/paste) stats block (works when the services are reachable):
+```html
 <p align="left">
   <img alt="Faysal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=faysalsarker-dev&show_icons=true&hide_border=true&theme=dracula" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalsarker-dev&layout=compact&hide_border=true&theme=dracula" />
 </p>
+```
 
-<!-- Contribution streak / activity -->
-<p align="left">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faysalsarker-dev&theme=dark&hide_border=true" />
-</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=faysalsarker-dev&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📬 Connect
-
-I'd love to connect — choose your preferred channel:
-
-- Email: your.email@example.com
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- GitHub: [faysalsarker-dev](https://github.com/faysalsarker-dev)
-
----
-
-## 🛠️ How to use & customize this README
-
-1. Create a repository named the same as your GitHub username (faysalsarker-dev) if you haven't already.
-2. Add a file named `README.md` at the repo root with this content.
-3. Replace placeholders (email, links, projects, descriptions) with your real details.
-4. For GitHub stats and top langs, you can change the theme param:
-   - Example: `&theme=github_dark` or `&theme=radical` (see https://github.com/anuraghazra/github-readme-stats for options).
-5. Optionally add a GitHub Action to automatically refresh dynamic parts (if you embed third-party SVGs) or to update your "recent activity" automatically.
-
----
-
-If you'd like, I can:
-- personalize this further with your real projects, short bio, and preferred tech stack,
-- produce a dark/light variant,
-- or create a version with animated header / GIF.
-
-Tell me which repositories and social links you want shown and any wording you prefer, and I’ll update the file.
