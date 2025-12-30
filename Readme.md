@@ -1,42 +1,47 @@
-![Cover Image](https://media.licdn.com/dms/image/v2/D5616AQHQLKVbz6Afjg/profile-displaybackgroundimage-shrink_350_1400/B56ZgjmxW2G0AY-/0/1752944023659?e=1756339200&v=beta&t=hiLgBsGMKckczVqCiCg4eK-FVJJXfWjyFUqQX3gbBCs)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Faysal%20Sarker&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-# Hi there, I'm Faysal Sarker 👋
+# 🚀 Full-Stack Engineer | 3+ Years of Mastery
 
-## About Me
-Hey, I'm Faysal Sarker, a passionate junior front-end and MERN stack developer with a deep love for coding and modern technology. As a student, I'm continually expanding my knowledge and honing my skills in the ever-evolving tech landscape.
-
-### What I'm Doing Right Now
-Currently, I'm dedicated to mastering complex coding techniques and advancing my expertise in full-stack development. My focus is on creating dynamic user interfaces with React.js and building complex back-end solutions using Node.js, Express, and MongoDB.
+I’m Faysal Sarker, a Full-Stack Developer from Bangladesh. I don’t just ship features—I care about why they exist, how they scale, and what they unlock next. I am **obsessed** with the craft of building systems that actually work in real-world conditions.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faysalsarker-dev&theme=transparent&hide_border=true&border_radius=4.9" alt="Faysal's GitHub streak"/>
-</p>
-
-
+### 🧠 The "Calculator" Philosophy
+I believe technology + mindset determines your ceiling. I openly embrace AI and modern tools for the same reason we use calculators: refusing them keeps you stuck in long division. By adopting them, I unlock higher-level thinking—architecture, creativity, and meaningful impact.
 
 ---
 
-## 🚀 Familiar Technologies & Skills
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-</p>
+### 💻 Tech Stack & Arsenal
+
+#### **Frontend & Scalability**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Backend & Data Architecture**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### **Tools & Productivity**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
-## 📫 Contact Me
+### 📊 Engineering Impact
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faysalsarker-dev&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=faysalsarker-dev&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalsarker-dev&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysalsarker-dev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/faysal.sharker.140) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/faysal_sarker_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faysalsarker.dev@gmail.com) 
+
+---
+
 <p align="center">
-  <a href="https://www.facebook.com/faysal.sharker.140/"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/faysal_sarker_"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/faysalsarker-dev/?originalSubdomain=bd"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <img src="https://visitcount.itsvg.in/api?id=faysalsarker-dev&icon=1&color=0" alt="Visit Count" />
 </p>
